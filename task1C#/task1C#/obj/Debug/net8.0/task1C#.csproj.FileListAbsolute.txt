@@ -1,0 +1,14 @@
+C:\Users\Агалар\source\repos\task1C#\task1C#\bin\Debug\net8.0\task1C#.exe
+C:\Users\Агалар\source\repos\task1C#\task1C#\bin\Debug\net8.0\task1C#.deps.json
+C:\Users\Агалар\source\repos\task1C#\task1C#\bin\Debug\net8.0\task1C#.runtimeconfig.json
+C:\Users\Агалар\source\repos\task1C#\task1C#\bin\Debug\net8.0\task1C#.dll
+C:\Users\Агалар\source\repos\task1C#\task1C#\bin\Debug\net8.0\task1C#.pdb
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.AssemblyInfoInputs.cache
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.AssemblyInfo.cs
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.csproj.CoreCompileInputs.cache
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.dll
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\refint\task1C#.dll
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.pdb
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\task1C#.genruntimeconfig.cache
+C:\Users\Агалар\source\repos\task1C#\task1C#\obj\Debug\net8.0\ref\task1C#.dll
